@@ -319,4 +319,3 @@ def return_accuracy_wordcount():
 
 user_window()
 correct_all_exams()
-#print(extract_text_from_pdf("Exams.pdf"))
